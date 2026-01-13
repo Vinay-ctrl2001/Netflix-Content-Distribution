@@ -1,67 +1,62 @@
+🎬 Netflix Content Analysis Dashboard
+This project provides a comprehensive analysis of Netflix’s global content catalog using Power BI and Advanced SQL.
+The dashboard focuses on key content metrics and distribution insights such as:
+📈 Total content growth over time
+🌍 Global reach across countries and genres
+🎭 Popular categories and ratings breakdown
+📺 Movies vs Shows distribution
+🗺️ Country-wise content availability
+🎬 Genre and listing trends
+🔗 Netflix Content Report Screenshot: Netflix Dashboard
 
-
-
-
-
-
-
-
-
-
-# Netflix-Content-Distribution
-
-📊 Key Insights
-🎯 KPIs
+Key Insights
+KPIs
+- Total Titles: 8K+
 - Countries Covered: 83
-- Genres Available: 506
-- Directors Featured: 4K
-- Total Shows: 17.825K
-- Total Movies: 5.380K
+- Genres Represented: 506
+- Directors Featured: 4K+
 
-🕒 Content Trends Over Time
-- Growth Phase: Steady increase in total shows from 2008 to 2020
-- Recent Decline: Drop in new shows post-2020, possibly due to market saturation or production shifts
+📅 Content Growth Over Time
+- Trend: Steady rise in content from 1940 to 2020, peaking in 2020
+- Observation: Post-2020 shows a sharp decline, possibly due to pandemic-related production delays
 
-🌍 Global Reach
-- Netflix content spans 83 countries, with strong presence across North America, Europe, and Asia
-- World map visualization highlights widespread distribution and localization efforts
+🎭 Ratings Distribution
+- TV-MA: ~2900 titles
+- TV-14: ~2000 titles
+- R: ~1000 titles
+- TV-PG & PG-13: ~800 combined
+- Insight: Mature content (TV-MA, R) dominates the catalog
 
-📺 Ratings Breakdown
-- TV-MA dominates with ~2882k titles
-- Followed by TV-14 (~1955k), R (~790), TV-PG (~719), and PG-13 (~477)
-- Indicates a skew toward mature content
+🍿 Movies vs Shows
+- Movies: 2.23K (34.96%)
+- Shows: 4.24K (65.04%)
+- Insight: Netflix leans heavily toward episodic content
 
-🍿 Content Type Distribution
-- Shows: 76.82% (17.825k)
-- Movies: 23.18% (5.380k)
-- Netflix is primarily show-driven, with a strong focus on episodic storytelling
+🌐 Global Distribution
+- Countries Highlighted: 83
+- Visualization: World map showing content availability
+- Insight: Strong international presence, especially in North America, Europe, and Asia
 
-🎬 Genre Popularity
-- Top Categories:
-- International Movies (~2.574K)
-- Dramas (~2.416K)
-- Comedies (~1.662K)
-- International TV Shows (~1.242K)
-- Action & Adventure (~853)
-- Least Represented: Sci-fi , Thriller 
-
-📈 Additional Insights
-- International content is a major driver, reflecting Netflix’s global strategy
-- High volume of mature-rated shows suggests targeting adult audiences
-- Genre diversity supports broad viewer preferences and binge-watching behavior
-- International content dominates, while Sci‑Fi and Thriller are niche.
+📚 Top Listing Categories
+- Dramas, International Movies: ~400
+- Stand-Up Comedy: ~350
+- Comedies, Independent Movies: ~300
+- Children & Family Movies, Kids’ TV: ~350 combined
+- Insight: Diverse content mix with strong representation in drama and comedy
 
 🧰 Tools & Technologies Used
-- Excel: For preprocessing and exploratory analysis
 - Power BI: For dashboard design, interactivity, and storytelling
-- GitHub: For hosting project files, visuals, and documentation
+- SQL: For data extraction, cleaning, and transformation
+- Excel: For initial data prep and validation
+- GitHub: For hosting project files, screenshots, and documentation
 
 🔗 Conclusion
-This Netflix Content Dashboard offers strategic insights into:
-- Content growth and saturation trends
-- Viewer targeting through ratings and genres
-- Global expansion and localization strategy
-- Opportunities to diversify genre offerings and balance movie/show ratios
-It serves as a decision-support tool for content strategists, marketers, and data analysts aiming to optimize Netflix’s catalog for viewer engagement and market expansion.
+This Netflix Content Analysis provides actionable insights for content strategists, marketers, and data analysts by highlighting:
+- Content growth trends and production cycles
+- Viewer preferences by rating and genre
+- Global content distribution and localization opportunities
+- Strategic focus areas for future content investment
+It serves as a decision-support tool for media analytics, enabling smarter content planning and audience targeting.
+
 
 
