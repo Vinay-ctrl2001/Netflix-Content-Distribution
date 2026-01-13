@@ -1,4 +1,4 @@
-![image alt](https://github.com/Vinay-ctrl2001/Netflix-Content-Distribution/blob/main/Netflix-Content-Distribution.png?raw=true)
+
 
 
 
