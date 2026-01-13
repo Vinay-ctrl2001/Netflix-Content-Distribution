@@ -1,5 +1,5 @@
 🎬 Netflix Content Analysis Dashboard
-This project provides a comprehensive analysis of Netflix’s global content catalog using Power BI and Advanced SQL.
+This project provides a comprehensive analysis of Netflix’s global content catalog using Power BI.
 The dashboard focuses on key content metrics and distribution insights such as:
 📈 Total content growth over time
 🌍 Global reach across countries and genres
@@ -18,19 +18,20 @@ KPIs
 - Directors Featured: 4K+
 
 📅 Content Growth Over Time
-- Trend: Steady rise in content from 1940 to 2020, peaking in 2020
+- Trend: Steady rise in content from 1940 to 2020, peaking in 2018
 - Observation: Post-2020 shows a sharp decline, possibly due to pandemic-related production delays
 
 🎭 Ratings Distribution
-- TV-MA: ~2900 titles
-- TV-14: ~2000 titles
-- R: ~1000 titles
-- TV-PG & PG-13: ~800 combined
-- Insight: Mature content (TV-MA, R) dominates the catalog
+- TV-MA: ~2882 titles
+- TV-14: ~1955 titles
+- R: ~790 titles
+- TV-PG ~719 titles
+- PG-13 ~477 titles
+- Insight: Mature content (TV-MA) dominates the catalog
 
 🍿 Movies vs Shows
-- Movies: 2.23K (34.96%)
-- Shows: 4.24K (65.04%)
+- Movies: 4.238K (65.04%)
+- Shows: 2.278K (34.96%)
 - Insight: Netflix leans heavily toward episodic content
 
 🌐 Global Distribution
@@ -39,15 +40,14 @@ KPIs
 - Insight: Strong international presence, especially in North America, Europe, and Asia
 
 📚 Top Listing Categories
-- Dramas, International Movies: ~400
-- Stand-Up Comedy: ~350
-- Comedies, Independent Movies: ~300
-- Children & Family Movies, Kids’ TV: ~350 combined
+- Dramas, International Movies: ~362
+- Stand-Up Comedy: ~333
+- Comedies, Independent Movies: ~274
+- Children & Family Movies, Kids’ TV: ~471 combined
 - Insight: Diverse content mix with strong representation in drama and comedy
 
 🧰 Tools & Technologies Used
 - Power BI: For dashboard design, interactivity, and storytelling
-- SQL: For data extraction, cleaning, and transformation
 - Excel: For initial data prep and validation
 - GitHub: For hosting project files, screenshots, and documentation
 
