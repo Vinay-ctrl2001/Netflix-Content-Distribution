@@ -7,8 +7,7 @@ The dashboard focuses on key content metrics and distribution insights such as:
 📺 Movies vs Shows distribution
 🗺️ Country-wise content availability
 🎬 Genre and listing trends
-🔗 Netflix Content Report Screenshot: Netflix Dashboard
-
+![image alt](https://github.com/Vinay-ctrl2001/Netflix-Content-Distribution/blob/main/Netflix%20Content%20Analysis%20Dashboard.png?raw=true)
 Key Insights
 KPIs
 - Total Titles: 8K+
